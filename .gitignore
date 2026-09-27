@@ -1,0 +1,15 @@
+.gradle/
+**/build/
+local.properties
+*.apk
+# Local editor settings, credentials and signing keys
+.idea/
+*.iml
+.env
+.env.*
+*.jks
+*.keystore
+keystore.properties
+# Local diagnostic captures
+*.png
+*.bundle
