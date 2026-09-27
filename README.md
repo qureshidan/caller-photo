@@ -67,6 +67,6 @@ The APK appears in `app/build/outputs/apk/debug/`. Debug builds are for testing.
 
 ## Feedback
 
-Open an [issue](../../issues/new/choose) for a bug, compatibility result or suggestion. Include your phone model, Android / HyperOS version, app version and reproduction steps. Remove names, phone numbers and private photos from screenshots and logs.
+Open an [issue](https://github.com/qureshidan/caller-photo/issues/new/choose) for a bug, compatibility result or suggestion. Include your phone model, Android / HyperOS version, app version and reproduction steps. Remove names, phone numbers and private photos from screenshots and logs.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for testing guidance. The current baseline is v0.5. Build and Android lint checks passed, and incoming-call operation was confirmed on the test device.
